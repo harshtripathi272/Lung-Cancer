@@ -17,7 +17,7 @@ See the best model in action. The Custom ANN (91.2% accuracy) is deployed as an 
 
 ![App Demo](lung-demo.gif)
 
-**Web App Repository:** [https://github.com/laksh-ya/Lung-Disease-Classification/](https://github.com/laksh-ya/Lung-Disease-Classification/)
+**Web App Repository:** [https://github.com/harshtripathi272/Lung-Cancer/](https://github.com/harshtripathi272/Lung-Cancer/)
 
 
 ## Dataset
